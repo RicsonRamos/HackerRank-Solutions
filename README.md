@@ -1,31 +1,14 @@
 # HackerRank
 Solutions to problems on [HackerRank](https://www.hackerrank.com)
 
+
 * [Python](#python)
 * [SQL](#sql)
 
 
+                                                         |
+
 ## Python
-## Java
-| Object Oriented Programming | [Java Interface](https://www.hackerrank.com/challenges/java-interface)                                                   |   10   |    Easy    | [Solution.java](Java/Object%20Oriented%20Programming/Java%20Interface/Solution.java)                                   |
-| Object Oriented Programming | [Java Method Overriding](https://www.hackerrank.com/challenges/java-method-overriding)                                   |   10   |    Easy    | [Solution.java](Java/Object%20Oriented%20Programming/Java%20Method%20Overriding/Solution.java)                         |
-| Object Oriented Programming | [Java Method Overriding 2 (Super Keyword)](https://www.hackerrank.com/challenges/java-method-overriding-2-super-keyword) |   10   |    Easy    | [Solution.java](Java/Object%20Oriented%20Programming/Java%20Method%20Overriding%202%20(Super%20Keyword)/Solution.java) |
-| Object Oriented Programming | [Java Instanceof keyword](https://www.hackerrank.com/challenges/java-instanceof-keyword)                                 |   10   |    Easy    | [Solution.java](Java/Object%20Oriented%20Programming/Java%20Instanceof%20keyword/Solution.java)                        |
-| Object Oriented Programming | [Java Iterator](https://www.hackerrank.com/challenges/java-iterator)                                                     |   15   |    Easy    | [Solution.java](Java/Object%20Oriented%20Programming/Java%20Iterator/Solution.java)                                    |
-|      Exception Handling     | [Java Exception Handling (Try-catch)](https://www.hackerrank.com/challenges/java-exception-handling-try-catch)           |   10   |    Easy    | [Solution.java](Java/Exception%20Handling/Java%20Exception%20Handling%20(Try-catch)/Solution.java)                     |
-|      Exception Handling     | [Java Exception Handling](https://www.hackerrank.com/challenges/java-exception-handling)                                 |   15   |    Easy    | [Solution.java](Java/Exception%20Handling/Java%20Exception%20Handling/Solution.java)                                   |
-|           Advanced          | [Java Varargs - Simple Addition](https://www.hackerrank.com/challenges/simple-addition-varargs)                          |   15   |    Easy    | [Solution.java](Java/Advanced/Java%20Varargs%20-%20Simple%20Addition/Solution.java)                                    |
-|           Advanced          | [Java Reflection - Attributes](https://www.hackerrank.com/challenges/java-reflection-attributes)                         |   15   |    Easy    | [Solution.java](Java/Advanced/Java%20Reflection%20-%20Attributes/Solution.java)                                        |
-|           Advanced          | [Can You Access](https://www.hackerrank.com/challenges/can-you-access)                                                   |   15   |   Medium   | [Solution.java](Java/Advanced/Can%20You%20Access/Solution.java)                                                        |
-|           Advanced          | [Prime Checker](https://www.hackerrank.com/challenges/prime-checker)                                                     |   25   |   Medium   | [Solution.java](Java/Advanced/Prime%20Checker/Solution.java)                                                           |
-|           Advanced          | [Java Factory Pattern](https://www.hackerrank.com/challenges/java-factory)                                               |   15   |    Easy    | [Solution.java](Java/Advanced/Java%20Factory%20Pattern/Solution.java)                                                  |
-|           Advanced          | [Java Singleton Pattern](https://www.hackerrank.com/challenges/java-singleton)                                           |   15   |    Easy    | [Solution.java](Java/Advanced/Java%20Singleton%20Pattern/Solution.java)                                                |
-|           Advanced          | [Java Visitor Pattern](https://www.hackerrank.com/challenges/java-vistor-pattern)                                        |   40   |   Medium   | [Solution.java](Java/Advanced/Java%20Visitor%20Pattern/Solution.java)                                                  |
-|           Advanced          | [Java Annotations](https://www.hackerrank.com/challenges/java-annotations)                                               |   25   |   Medium   | [Solution.java](Java/Advanced/Java%20Annotations/Solution.java)                                                        |
-|           Advanced          | [Covariant Return Types](https://www.hackerrank.com/challenges/java-covariance)                                          |   20   |    Easy    | [Solution.java](Java/Advanced/Covariant%20Return%20Types/Solution.java)                                                |
-|           Advanced          | [Java Lambda Expressions](https://www.hackerrank.com/challenges/java-lambda-expressions)                                 |   30   |   Medium   | [Solution.java](Java/Advanced/Java%20Lambda%20Expressions/Solution.java)                                               |
-|           Advanced          | [Java MD5](https://www.hackerrank.com/challenges/java-md5)                                                               |   30   |   Medium   | [Solution.java](Java/Advanced/Java%20MD5/Solution.java)                                                                |
-|           Advanced          | [Java SHA-256](https://www.hackerrank.com/challenges/sha-256)                                                            |   30   |   Medium   | [Solution.java](Java/Advanced/Java%20SHA-256/Solution.java)                                                            |
 
 |          Subdomain          |                                                                  Challenge                                                                  | Score  | Difficulty |                                                        Solution                                                        |
 |:---------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------:|:------:|:----------:|:----------------------------------------------------------------------------------------------------------------------:|
@@ -207,3 +190,4 @@ Solutions to problems on [HackerRank](https://www.hackerrank.com)
 |     Alternative Queries     | [Draw The Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1)                                             |   25   |    Easy    | [Solution.sql](SQL/Alternative%20Queries/Draw%20The%20Triangle%201/Solution.sql)                  |
 |     Alternative Queries     | [Draw The Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2)                                             |   25   |    Easy    | [Solution.sql](SQL/Alternative%20Queries/Draw%20The%20Triangle%202/Solution.sql)                  |
 |     Alternative Queries     | [Print Prime Numbers](https://www.hackerrank.com/challenges/print-prime-numbers)                                             |   40   |   Medium   | [Solution.sql](SQL/Alternative%20Queries/Print%20Prime%20Numbers/Solution.sql)                    |
+
