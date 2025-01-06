@@ -4,9 +4,7 @@ Solutions to problems on [HackerRank](https://www.hackerrank.com)
 
 * [Python](#python)
 * [SQL](#sql)
-
-
-                                                         |
+  
 
 ## Python
 
